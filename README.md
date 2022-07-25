@@ -19,4 +19,4 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswajitdebnath108&show_icons=true&locale=en&layout=compact" alt="biswajitdebnath108" /></p>
 
-<p>&nbsp;<img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=biswajitdebnath108&show_icons=true&locale=en" alt="biswajitdebnath108" /></p>
+<p>&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=biswajitdebnath108&show_icons=true&locale=en" alt="biswajitdebnath108" /></p>
