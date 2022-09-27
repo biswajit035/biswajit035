@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 <img src="https://tauseefshaikh.com/wp-content/uploads/2022/06/web-developmen-design-1.gif" alt="code" width="400" align="right"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajitdebnath108&label=Profile%20views&color=0e75b6&style=flat" alt="biswajitdebnath108" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajit035&label=Profile%20views&color=0e75b6&style=flat" alt="biswajit035" /> </p>
 
 - 🌱 I’m currently learning **Backend Developement**
 
@@ -51,6 +51,6 @@
   <img src="https://www.clipartmax.com/png/middle/89-894960_js-discord-bot-logo-node-js-and-react-js.png" alt="nodejs" width="40" height="40"/>
 </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswajitdebnath108&show_icons=true&locale=en&layout=compact" alt="biswajitdebnath108" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswajit035&show_icons=true&locale=en&layout=compact" alt="biswajit035" /></p>
 
-<p>&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=biswajitdebnath108&show_icons=true&locale=en" alt="biswajitdebnath108" /></p>
+<p>&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=biswajit035&show_icons=true&locale=en" alt="biswajit035" /></p>
