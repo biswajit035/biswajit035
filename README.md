@@ -54,4 +54,4 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswajit035&show_icons=true&locale=en&layout=compact" alt="biswajit035" /></p>
 
 <p>&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=biswajit035&show_icons=true&locale=en" alt="biswajit035" /></p>
-[![@biswajit_035's Holopin board](https://holopin.me/biswajit_035)](https://holopin.io/@biswajit_035)
+[![@biswajit_035's Holopin board](https://holopin.me/biswajit_035)](https://holopin.io/@biswajit_035)]
